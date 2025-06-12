@@ -81,11 +81,12 @@ It performs better than traditional models on noisy or non-linear financial data
 
 ## 📈 Model Performance
 
-Metric	ARIMA	LSTM
-MAE	2.31	1.94
-RMSE	3.12	2.68
-MAPE (%)	~5.1%	~3.6%
-R² Score	0.82	0.89
+| Metric   | ARIMA | LSTM | 
+|----------|-------|------|
+| MAE      | 2.31  |	1.94| 
+| RMSE     | 3.12  |	2.68|
+| MAPE     | ~5.1% | ~3.6%| 
+| R² Score | 0.82  |	0.89| 
 
 ---
 
